@@ -1,0 +1,35 @@
+a:link{
+    color: rgb(11, 11, 169);
+}
+a:visited{
+    color: blueviolet;
+}
+a:hover{
+    color: green;
+}
+a:active{
+    background-color:black;
+    color: white;
+}
+*{
+    font-family: cursive;
+    color: black;
+    font-size: 1.2em;
+}
+.logo{
+    
+    margin: -5%;
+    padding-left: 1%;
+    padding-top: 1.8%;
+}
+.ttext{
+    padding-top: 5%;
+}
+.lorem{
+    border: 1px;
+    padding: 10px;
+}
+
+.lorem:hover{
+    box-shadow: 5px 0px 25px black;
+}
